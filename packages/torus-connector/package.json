@@ -1,5 +1,5 @@
 {
-  "name": "@web3-react/torus-connector",
+  "name": "@gwn57/web3-react-torus-connector",
   "publishConfig": {
     "access": "public"
   },
